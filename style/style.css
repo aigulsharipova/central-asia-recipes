@@ -8,13 +8,13 @@
 #search {
   flex: 1;
 }
-.receipes {
+.recepis {
   display: flex;
   flex-wrap: wrap;
 }
 #photo {
   display: flex;
   flex-direction: column;
-  margin: 10px;
+  margin: 20px;
   padding: 20px;
 }
