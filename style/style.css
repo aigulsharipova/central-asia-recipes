@@ -2,6 +2,16 @@
   display: flex;
   justify-content: center;
 }
+h1 {
+  color: black;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Merriweather', serif;
+  font-family: 'Titan One', cursive;
+}
+h2 {
+  color: black;
+}
 .input-search {
   display: flex;
 }
@@ -17,4 +27,11 @@
   flex-direction: column;
   margin: 20px;
   padding: 20px;
+}
+body{
+  background-color: rgb(215, 213, 211);
+}
+a {
+  text-decoration: none;
+
 }
