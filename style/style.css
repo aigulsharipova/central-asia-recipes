@@ -8,7 +8,7 @@
 #search {
   flex: 1;
 }
-.container {
+.receipes {
   display: flex;
   flex-wrap: wrap;
 }
