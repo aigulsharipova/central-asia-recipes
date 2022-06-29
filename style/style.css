@@ -10,8 +10,8 @@ h1 {
   font-family: 'Titan One', cursive;
   font-size: 60px;
 }
-h2 {
-  color: black;
+#text {
+  font-size: 25px;
 }
 .input-search {
   display: flex;
@@ -36,4 +36,6 @@ a {
   text-decoration: none;
   color: black;
   font-size: 40px;
+  display: flex;
+  justify-content: center;
 }
