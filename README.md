@@ -18,5 +18,5 @@ Central Asia recipes search website.
 
 ## Screenshot 📸
 
-![Example 1](./style/screen1.png)
-![Example 2](./style/screen2.png)
+![Example 1](./style/screen2.png)
+![Example 2](./style/screen1.png)
