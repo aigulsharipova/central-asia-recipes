@@ -19,7 +19,7 @@ h1 {
 #search {
   flex: 1;
 }
-.recepis {
+.recipes {
   display: flex;
   flex-wrap: wrap;
 }
