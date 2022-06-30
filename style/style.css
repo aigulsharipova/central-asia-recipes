@@ -23,7 +23,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
 }
-#photo {
+.photo {
   display: flex;
   flex-direction: column;
   margin: 20px;

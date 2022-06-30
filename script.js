@@ -1,4 +1,4 @@
-const inputSearch = document.querySelector('.search');
+const inputSearch = document.querySelector('#search');
 const allRecipes = document.querySelectorAll('.photo');
 
 inputSearch.addEventListener('keyup', function(event) {
