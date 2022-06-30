@@ -41,3 +41,6 @@ a {
   display: flex;
   justify-content: center;
 }
+.copy {
+  text-align: center;
+}
