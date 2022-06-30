@@ -1,2 +1,2 @@
 const inputSearch = document.querySelector('.input-search');
-//const allRecipes
+const allRecipes = document.querySelectorAll('.recipes');
